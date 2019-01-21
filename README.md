@@ -1,5 +1,6 @@
 # Labs
 [![Code Climate](https://codeclimate.com/github/abaykan/Labs.svg)](https://codeclimate.com/github/abaykan/Labs)
+[![Coverage Status](https://coveralls.io/repos/github/abaykan/Labs/badge.svg?branch=master)](https://coveralls.io/github/abaykan/Labs?branch=master)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
