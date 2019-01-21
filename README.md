@@ -6,7 +6,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 **https://github.com/abaykan/Labs**<br>
-Repositori ini berisi file-file vulnerable terhadap bug tertentu yang saya jadikan demo pada artikel yang saya tulis di **[abaykan.com](https://abaykan.com/)**<br><br>
+Repositori ini berisi file-file vulnerable terhadap bug tertentu yang saya jadikan demo pada artikel yang saya tulis di **[abaykan.com](https://abaykan.com/)**.<br><br>
 
 <hr>
 
