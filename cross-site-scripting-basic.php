@@ -14,8 +14,8 @@
     <button class="btn btn-primary my-2 my-sm-0" type="submit">Cari</button>
 </form>
 <?php
-error_reporting(0);
-header('X-XSS-Protection: 0');
+error_reporting(0); // Menyembunyikan report error.
+header('X-XSS-Protection: 0'); // Agar bisa memunculkan alert pada Google Chrome.
 $q = $_GET['query'];
 if(isset($_GET['query'])) {
 	echo "Hasil pencarian: ", $q;
