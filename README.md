@@ -1,9 +1,9 @@
+<img align="left" height="200" src="https://cdn.shopify.com/s/files/1/1787/8943/products/887305559810685529a3f34aec898494_600x.png">
+
 # Labs
 [![Code Climate](https://codeclimate.com/github/abaykan/Labs.svg)](https://codeclimate.com/github/abaykan/Labs)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
-<img align="left" height="200" src="https://cdn.shopify.com/s/files/1/1787/8943/products/887305559810685529a3f34aec898494_600x.png">
 
 Repository ini berisi file-file vulnerable terhadap bug tertentu yang saya jadikan demo pada artikel yang saya tulis di [abaykan.com](https://abaykan.com/)
 
