@@ -1,4 +1,4 @@
-<img align="left" height="200" src="https://cdn.shopify.com/s/files/1/1787/8943/products/887305559810685529a3f34aec898494_600x.png">
+<img align="left" height="210" src="https://cdn.shopify.com/s/files/1/1787/8943/products/887305559810685529a3f34aec898494_600x.png">
 
 # Labs
 [![Code Climate](https://codeclimate.com/github/abaykan/Labs.svg)](https://codeclimate.com/github/abaykan/Labs)
