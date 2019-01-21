@@ -7,6 +7,8 @@
 
 Repository ini berisi file-file vulnerable terhadap bug tertentu yang saya jadikan demo pada artikel yang saya tulis di [abaykan.com](https://abaykan.com/)
 
+<hr>
+
 ## Local File Inclusion
 [Local File Inclusion](https://abaykan.com/local-file-inclusion/) berarti akses tidak sah ke file yang ada di sistem. Kerentanan ini memungkinkan penyerang mendapatkan akses ke file sensitif di server, dan itu mungkin juga menyebabkan mendapatkan shell.
 
