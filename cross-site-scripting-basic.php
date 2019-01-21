@@ -10,7 +10,7 @@
 <h1>Cross Site Scripting | abaykan.com</h1>
 <hr>
 <form class="form-inline my-2 my-lg-0" action="?query=" method="get">
-	<input class="form-control mr-sm-2" type="text" placeholder="keyword ..." name="query">
+    <input class="form-control mr-sm-2" type="text" placeholder="keyword ..." name="query">
     <button class="btn btn-primary my-2 my-sm-0" type="submit">Cari</button>
 </form>
 <?php
