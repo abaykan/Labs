@@ -1,12 +1,11 @@
 # Labs
 [![Code Climate](https://codeclimate.com/github/abaykan/Labs.svg)](https://codeclimate.com/github/abaykan/Labs)
-[![Coverage Status](https://coveralls.io/repos/github/abaykan/Labs/badge.svg?branch=master)](https://coveralls.io/github/abaykan/Labs?branch=master)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-Repository ini berisi file-file vulnerable terhadap bug tertentu yang saya jadikan demo pada artikel yang saya tulis di [abaykan.com](https://abaykan.com/)
+<img align="left" height="200" src="https://cdn.shopify.com/s/files/1/1787/8943/products/887305559810685529a3f34aec898494_600x.png">
 
-![Labs](https://github.com/abaykan/Labs/blob/master/pic.png?raw=true )
+Repository ini berisi file-file vulnerable terhadap bug tertentu yang saya jadikan demo pada artikel yang saya tulis di [abaykan.com](https://abaykan.com/)
 
 ## Local File Inclusion
 [Local File Inclusion](https://abaykan.com/local-file-inclusion/) berarti akses tidak sah ke file yang ada di sistem. Kerentanan ini memungkinkan penyerang mendapatkan akses ke file sensitif di server, dan itu mungkin juga menyebabkan mendapatkan shell.
