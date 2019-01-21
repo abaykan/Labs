@@ -17,7 +17,7 @@ Repository ini berisi file-file vulnerable terhadap bug tertentu yang saya jadik
 Postingan tersebut menjelaskan cara kerja, contoh source-code yang vuln, teknik bypass filter dan juga Cheatsheet yang bisa berguna pada saat melakukan Local File Inclusion.
 POST: [Local File Inclusion](https://abaykan.com/local-file-inclusion/).
 
-## Cross Site Scripting
+## Cross Site Scripting: Dasar - Dasar XSS
 [Cross Site Scripting (XSS)](https://abaykan.com/cross-site-scripting-dasar/) pada dasarnya menyuntikkan skrip atau HTML ke halaman web, seberapa burukkah akibatnya? Jika kita melihat XSS sebagai bug yang tidak berbahaya, sepertinya harus dipikir ulang. Jika Google saja membayar hingga `$3,133.7` untuk satu bug XSS, itu berarti itu sangat buruk, kan?
 
 ![Cross Site Scripting](https://abaykan.com/wp-content/uploads/2019/01/2-1.png)
