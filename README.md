@@ -1,4 +1,4 @@
-<img align="left" height="230" src="https://cdn.shopify.com/s/files/1/1787/8943/products/887305559810685529a3f34aec898494_600x.png">
+<img align="left" height="200" src="https://cdn.shopify.com/s/files/1/1787/8943/products/887305559810685529a3f34aec898494_600x.png">
 
 # Labs
 [![Code Climate](https://codeclimate.com/github/abaykan/Labs.svg)](https://codeclimate.com/github/abaykan/Labs)
@@ -25,3 +25,11 @@ POST: [Local File Inclusion](https://abaykan.com/local-file-inclusion/).
 
 Pada artikel tersebut saya menjelaskan dasar - dasar XSS. Terkait apa itu XSS, contoh source-code yang vuln serta sedikit cara pencegahan.
 POST: [Cross Site Scripting: Dasar - Dasar XSS](https://abaykan.com/cross-site-scripting-dasar/).
+
+## Command Injection
+Command Injection adalah kerentanan format string yang terjadi ketika input pengguna yang tidak difilter lalu diteruskan ke shell sistem (system(), exec(), dll). Seorang penyerang dapat mengeksploitasi kerentanan ini dengan urutan perintah yang ditambahkan ke format yang sesuai untuk mengeksekusi perintah shell. 
+
+![Command Injection](https://abaykan.com/wp-content/uploads/2019/01/command-injection-code-1024x600.png)
+
+Postingan ini menjelaskan tentang mengapa terjadi Command Injection, contoh source-code dan beberapa cara penanganannya.
+POST: [Command Injection](https://abaykan.com/command-injection-basic/).
