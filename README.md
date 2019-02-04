@@ -1,4 +1,4 @@
-<img align="left" height="200" src="https://cdn.shopify.com/s/files/1/1787/8943/products/887305559810685529a3f34aec898494_600x.png">
+<img align="left" height="220" src="https://cdn.shopify.com/s/files/1/1787/8943/products/887305559810685529a3f34aec898494_600x.png">
 
 # Labs
 [![Code Climate](https://codeclimate.com/github/abaykan/Labs.svg)](https://codeclimate.com/github/abaykan/Labs)
@@ -7,7 +7,7 @@
 
 **https://github.com/abaykan/Labs**<br>
 Repositori ini berisi file-file vulnerable terhadap bug tertentu yang saya jadikan demo pada artikel yang saya tulis di **[abaykan.com](https://abaykan.com/)**.
-
+<br/><br/>
 <hr>
 
 ## Local File Inclusion
