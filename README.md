@@ -27,7 +27,7 @@ Pada artikel tersebut saya menjelaskan dasar - dasar XSS. Terkait apa itu XSS, c
 POST: [Cross Site Scripting: Dasar - Dasar XSS](https://abaykan.com/cross-site-scripting-dasar/).
 
 ## Command Injection
-Command Injection adalah kerentanan format string yang terjadi ketika input pengguna yang tidak difilter lalu diteruskan ke shell sistem (system(), exec(), dll). Seorang penyerang dapat mengeksploitasi kerentanan ini dengan urutan perintah yang ditambahkan ke format yang sesuai untuk mengeksekusi perintah shell. 
+Command Injection adalah kerentanan format string yang terjadi ketika input pengguna yang tidak difilter lalu diteruskan ke shell sistem (`system()`, `exec()`, dll). Seorang penyerang dapat mengeksploitasi kerentanan ini dengan urutan perintah yang ditambahkan ke format yang sesuai untuk mengeksekusi perintah shell. 
 
 ![Command Injection](https://abaykan.com/wp-content/uploads/2019/01/command-injection-code-1024x600.png)
 
