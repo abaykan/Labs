@@ -17,7 +17,7 @@ error_reporting(0);
     <input class="form-control mr-sm-2" type="text" style="width: 300px;" placeholder="<?php echo $_GET['domain'];?>" name="domain">
     <button class="btn btn-primary my-2 my-sm-0" type="submit">Cari</button>
 </form>
-<?
+<?php
 if (isset($_GET['domain'])) {
 	echo "<pre class='bg-default'>";
 	$domain = $_GET['domain'];
