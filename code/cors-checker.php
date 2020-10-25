@@ -19,7 +19,7 @@ Post Data: <br/><input type="text" name="postdata" size="140" autocomplete="off"
   onkeyup   ="if(this.value.match(/document/)) this.value=this.value.replace(/\D/g,'')"
 ><br/> <br/>
 <!-- Method GET / POST tinggal ganti onclick() -->
-<button type="button" class="btn btn-info" type="submit" onclick="post()">Exploit Now!</button>
+<button type="button" class="btn btn-info" type="submit" onclick="get()">Exploit Now!</button>
 <pre id="result"></pre>
 <script type="text/javascript">
   function post() {
